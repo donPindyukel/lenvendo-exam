@@ -1,0 +1,1 @@
+export { DeleteModalWindow } from './DeleteModalWindow';

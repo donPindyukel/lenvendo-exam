@@ -1,0 +1,14 @@
+@import '../../assets/styles/constants.scss';
+
+.text-block {
+  width: 30%;
+  padding: 30px;
+  position: relative;
+  outline: 1px solid black;
+  &__close {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	cursor: pointer;
+  }
+}

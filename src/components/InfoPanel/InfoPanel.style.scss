@@ -1,0 +1,12 @@
+@import '../../assets/styles/constants.scss';
+
+.panel {
+  height: 120px;
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
+  background: $color__gray;
+  margin: 0 auto;
+  color: $color__blue;
+  margin-bottom: 40px;
+}

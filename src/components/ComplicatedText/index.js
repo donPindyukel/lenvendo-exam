@@ -1,0 +1,1 @@
+export { ComplicatedText } from './ComplicatedText';
